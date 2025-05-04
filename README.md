@@ -68,9 +68,9 @@ The **Telegram Horoscope Bot** is a Python-based chatbot that provides daily hor
 ---
 
 ## 🔗 Connect with Me!
-💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)  
-🌟 **GitHub:** [Your Repos](https://github.com/yourusername)  
-🌐 **Portfolio Website:** [yourwebsite.com](https://yourwebsite.com)  
+💼 **LinkedIn:** [priyankpvora](https://www.linkedin.com/in/priyankpvora/)  
+🌟 **GitHub:** [priyankpriyank Repos](https://github.com/priyankpriyank)  
+🌐 **Portfolio Website:** [priyank-vora](https://priyank-vora.netlify.app/)  
 
 ---
 
